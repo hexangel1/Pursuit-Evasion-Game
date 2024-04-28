@@ -162,7 +162,3 @@ cython_debug/
 # Custom
 output/pursuit-run*
 .vscode
-Text/*toc
-Text/*aux
-Text/*log
-Text/*swp
